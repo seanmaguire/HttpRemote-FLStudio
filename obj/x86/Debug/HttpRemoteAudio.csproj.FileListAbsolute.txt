@@ -1,0 +1,7 @@
+C:\Users\wolf\Documents\Visual Studio 2013\Projects\HttpRemote-Audio\bin\Debug\HttpRemote.exe
+C:\Users\wolf\Documents\Visual Studio 2013\Projects\HttpRemote-Audio\bin\Debug\HttpRemote.pdb
+C:\Users\wolf\Documents\Visual Studio 2013\Projects\HttpRemote-Audio\obj\x86\Debug\HttpRemoteAudio.csprojResolveAssemblyReference.cache
+C:\Users\wolf\Documents\Visual Studio 2013\Projects\HttpRemote-Audio\obj\x86\Debug\HttpRemote.exe
+C:\Users\wolf\Documents\Visual Studio 2013\Projects\HttpRemote-Audio\obj\x86\Debug\HttpRemote.pdb
+C:\Users\wolf\Documents\Visual Studio 2015\Projects\HttpRemote-Audio\obj\x86\Debug\HttpRemote.exe
+C:\Users\wolf\Documents\Visual Studio 2015\Projects\HttpRemote-Audio\obj\x86\Debug\HttpRemote.pdb
